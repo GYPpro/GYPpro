@@ -4,7 +4,7 @@
       <h4> Coding to our Arcology </h4>
       <h3>About Me</h3>
       <p> ACMer | 全栈 | 数学 | Linux | Web | 芙宁娜信徒 </p>
-      <p> <a href="https://codeforces.com/profile/GYPplus">codeforces</a> | <a href="https://www.zhihu.com/people/gyp-30">知乎</a> | <a href="http://blog.arcol.site/">Blog</a> | Bilibili | 简历 | GYPplus @outlook.com </p>
+      <p> <a href="https://codeforces.com/profile/GYPplus">codeforces</a> | <a href="https://www.zhihu.com/people/gyp-30">知乎</a> | <a href="http://blog.arcol.site/">Blog</a> </p>
     </article>
     
    
